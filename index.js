@@ -1,0 +1,1 @@
+console.log("Umar Farouk ilyas\n 7.8 height\n from Nigeria"); 
